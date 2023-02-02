@@ -1656,9 +1656,9 @@ eslint-visitor-keys@^3.3.0:
   integrity sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==
 
 eslint@^8.0.1:
-  version "8.32.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.32.0.tgz#d9690056bb6f1a302bd991e7090f5b68fbaea861"
-  integrity sha512-nETVXpnthqKPFyuY2FNjz/bEd6nbosRgKbkgS/y1C7LJop96gYHWpiguLecMHQ2XCPxn77DS0P+68WzG6vkZSQ==
+  version "8.33.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.33.0.tgz#02f110f32998cb598c6461f24f4d306e41ca33d7"
+  integrity sha512-WjOpFQgKK8VrCnAtl8We0SUOy/oVZ5NHykyMiagV1M9r8IFpIJX7DduK6n1mpfhlG7T1NLWm2SuD8QB7KFySaA==
   dependencies:
     "@eslint/eslintrc" "^1.4.1"
     "@humanwhocodes/config-array" "^0.11.8"
@@ -4071,9 +4071,9 @@ safe-regex-test@^1.0.0:
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
 semantic-release@^20.0.2:
-  version "20.0.3"
-  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-20.0.3.tgz#4cbadfe2120ad5e398a582baef3af802543c356d"
-  integrity sha512-PSlSgrPuA2x/1pBzGQINFBnwXwLuReu0rv5/lA1eMpx1jXXsx2yW5p2qx4lSuriE09d8MkSWne70ZmK7vk2OFQ==
+  version "20.1.0"
+  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-20.1.0.tgz#07d493fe5431ad326018069e86cc50ba6927b65c"
+  integrity sha512-+9+n6RIr0Fz0F53cXrjpawxWlUg3O7/qr1jF9lrE+/v6WqwBrSWnavVHTPaf2WLerET2EngoqI0M4pahkKl6XQ==
   dependencies:
     "@semantic-release/commit-analyzer" "^9.0.2"
     "@semantic-release/error" "^3.0.0"
