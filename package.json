@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/krshkun/trevenant#readme",
   "dependencies": {
-    "consola": "^2.15.3",
+    "consola": "^3.0.0",
     "dayjs": "^1.11.7",
     "pretty-error": "^4.0.0"
   },
